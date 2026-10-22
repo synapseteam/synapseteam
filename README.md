@@ -43,19 +43,6 @@ Prices and timelines are public: [synapseteam.com/pricing](https://synapseteam.c
 [WordPress](https://synapseteam.com/technologies/wordpress/) ·
 [Laravel](https://synapseteam.com/technologies/laravel/)
 
-## Selected work
-
-| Project | What it is |
-| --- | --- |
-| [Upwex](https://synapseteam.com/case-studies/upwex/) | AI tool |
-| [Career Mastery](https://synapseteam.com/case-studies/careermastery/) | AI SaaS, career growth platform |
-| [DealFin](https://synapseteam.com/case-studies/dealfin/) | E-commerce for investment gold |
-| [Digital License](https://synapseteam.com/case-studies/digitallicense/) | E-commerce for software licenses |
-| [Premier Community](https://synapseteam.com/case-studies/premiercommunity/) | Care platform |
-| [TCO](https://synapseteam.com/case-studies/tco/) | Corporate website |
-
-All projects: [synapseteam.com/case-studies](https://synapseteam.com/case-studies/)
-
 ## Українською
 
 Розробка сайтів з AI під ключ для бізнесу в Україні: [synapseteam.com.ua](https://synapseteam.com.ua/). [Послуги](https://synapseteam.com.ua/services/), [ціни](https://synapseteam.com.ua/pricing/), [кейси](https://synapseteam.com.ua/case-studies/), [блог](https://synapseteam.com.ua/blog/).
